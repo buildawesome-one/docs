@@ -8,7 +8,7 @@ header_links:
     title: <i class="fa-brands fa-bluesky"></i>
   - url: https://mastodon.social/@anydigital/tagged/BuildAwesome?boosts=1
     title: <i class="fa-brands fa-mastodon fa-lg"></i>
-  - url: https://blades.ninja/
+  - url: https://blades.dev/
     title: <i class="dark-auto">🥷</i>
   - url: https://github.com/buildawesome-one/docs/tree/main/content
     title: <i class="fa-solid fa-laptop-code faded"></i>
