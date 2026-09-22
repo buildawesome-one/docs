@@ -1,9 +1,9 @@
 ---
 eleventyNavigation: { parent: More, key: Awesome }
 title: <sup style>Awesome</sup> <i class="fa-brands fa-eleventy"></i><span hidden>11ty</span> / Build&nbsp;Awesome
-description: https://github.com/buildawesome-one/awesome
+description: https://github.com/buildawesome-one/awesome-11ty-buildawesome
 bricks:
-  - path: https://raw.githubusercontent.com/buildawesome-one/awesome/refs/heads/main/README.md
+  - path: https://raw.githubusercontent.com/buildawesome-one/awesome-11ty-buildawesome/refs/heads/main/README.md
     section: content
 ---
 
