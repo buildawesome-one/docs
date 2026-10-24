@@ -91,7 +91,7 @@
       sections: [docs, code]
 - permalink: /plugin/filters/markdownify/
   eleventyNavigation: { parent: Filters, key: markdownify }
-  description: "Included out-of-the-box with https://11ty.blades.ninja/base/ package:"
+  description: "Included out-of-the-box with https://buildawesome.one/config/ package:"
   bricks:
     - path: https://raw.githubusercontent.com/buildawesome-one/kit/refs/heads/main/config/buildawesome.config.js
       section: markdownify
